@@ -1,2 +1,0 @@
-# rhel9_podman_desktop
-rhel9_podman_desktop
